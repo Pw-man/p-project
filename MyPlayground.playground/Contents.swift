@@ -1,5 +1,3 @@
 import UIKit
 
-var str = "Hello, playground"
-
-var a = "sdffsdfd"
+let metrika = "Yandex Metrika"

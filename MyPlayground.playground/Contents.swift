@@ -1,3 +1,3 @@
 import UIKit
 
-let metrika = "Yandex Metrika"
+let metrika = "Google Analytics"

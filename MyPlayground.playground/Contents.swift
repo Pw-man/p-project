@@ -1,5 +1,9 @@
 import UIKit
 
-var str = "Hello, playground"
 
-var a = "sdffsdfd"
+let a = "sdffsdfd"
+
+let metrika = "Яндекс.Метрика"
+
+let gAnal = "Google Analytics"
+
